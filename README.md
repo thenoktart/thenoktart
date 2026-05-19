@@ -70,3 +70,10 @@ Experiments with:
 ---
 
 Building practical AI systems while studying how humans and AI interact in real-world workflows.
+## Current Projects
+
+- AI safety observation workflows
+- Prompt injection analysis
+- Ecommerce automation systems
+- AI-assisted research pipelines
+- Workflow experimentation
