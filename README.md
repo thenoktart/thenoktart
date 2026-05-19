@@ -1,5 +1,5 @@
 # Fatih Bülbül
-
+![AI Workflow Map](./ai-workflow-map.png)
 AI systems, ecommerce automation, AI safety observations, and workflow experimentation.
 
 ---
